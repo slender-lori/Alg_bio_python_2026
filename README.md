@@ -1,4 +1,6 @@
 # Alg_bio_python_2026
+## ссылка на LeetCode: https://leetcode.com/u/slender_lori/
+
 ## Лекции 1-2 
 
 1. **Celsius and Fahrenheit Converter**: перевод по формулам `F = C * 9 / 5 + 32` и `C = (F - 32) * 5 / 9`.
